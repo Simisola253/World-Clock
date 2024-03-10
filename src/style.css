@@ -13,3 +13,27 @@ body {
   border: 2px solid;
   box-shadow: #424874;
 }
+
+h1 {
+  color: #a6b1e1;
+}
+h2 {
+  color: #8ea5eb;
+}
+select {
+  display: block;
+  margin: 0 auto;
+  padding: 15px;
+  font-size: 20px;
+  text-align: center;
+  width: 80%;
+  border: 2px solid #8ea5eb;
+  color: #8ea5eb;
+  border-radius: 15px;
+}
+.city {
+  display: flex;
+  justify-content: space-between;
+  margin: 20px 0;
+  border-bottom: 2px dashed #8ea5eb;
+}
